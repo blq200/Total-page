@@ -1,0 +1,34 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url(makeup.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    
+}
+
+::placeholder{
+    padding: 1em;
+    color: #716A6A;
+    font-family:  'Arial Narrow';
+    
+}
+
+#tell{
+    width: 50%;
+    height: 2.2em;
+    border-radius: 33px;
+    background-color: white;
+    border: white;
+    margin: 0 auto;
+}
+.phone{
+    width: 44em;
+    border: solid white;
+    height: 1.5em;
+    margin-top: 0.5em;
+   font-family: sarpanch;
+}
