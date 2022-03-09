@@ -53,7 +53,7 @@
                 
                 <br><br>
         <!------------------------btns------------------------>        
-                <button id="back" style="  background-color: #ae7b4c00; border: 1px solid #D3A589; border-radius: 10px;width: 15%; height: 2em; color: white;"><a style="text-decoration:none; color:white;" href="index.php">BACK </a></button>
+                <button id="back" style="  background-color: #ae7b4c00; border: 1px solid #D3A589; border-radius: 10px;width: 15%; height: 2em; color: white;">BACK </button>
                 <button id="submit"style="background-color: #ae7b4c00; border: 1px solid #D3A589; border-radius: 10px; width: 15%; height: 2em; color: white; margin-left: 12em;">Submit</button>
                 <br><br> 
                 <br><br> 
